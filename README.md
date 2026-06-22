@@ -2,7 +2,7 @@
 
 ꩜ Pronouns: she/her
 
-★ I'm a teenager who's fairly new to programming 
+★ I'm a 16 year old teenager who's fairly new to programming 
 
 ꩜ Currently learning the programming language Delphi!
 
