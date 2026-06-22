@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello! I'm Astyrinx! ˚ʚ♡ɞ˚
+
+꩜ Pronouns: she/her
+★ I'm a teenager who's fairly new to programming 
+꩜ Currently learning the programming language Delphi!
+★ I enjoy problem solving and challenges!
+꩜ I'd like to use GitHub as a portfolio to showcase some of my projects and to learn from others!
+
 
 <!--
 **Astyrinx/Astyrinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
